@@ -2,4 +2,4 @@
 Many temples for Word, PowerPoint, etc.
 
 ## Copyright
-Copyright (c) Finger Labs.
+[MIT](LICENSE.md).
