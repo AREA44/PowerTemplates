@@ -1,5 +1,9 @@
-# TEMPLATE LIBRARY
-Many temples for Word, PowerPoint, etc.
+# Magik Library
+Magiklib’s document templates allow you to quickly create a flyer for your design.
 
-## Copyright
-[MIT](LICENSE.md).
+## Feature
+* Word Templates
+* PowerPoint Templates
+
+## License
+[MIT](LICENSE.md)
