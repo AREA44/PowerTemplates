@@ -1,9 +1,12 @@
-# Magik Library
-Magiklib’s document templates allow you to quickly create a flyer for your design.
+# AREA44 source templates
+
+`AREA44 source templates` allow you to quickly create a flyer for your design.
 
 ## Feature
+
 * Word Templates
 * PowerPoint Templates
 
 ## License
-[MIT](LICENSE.md)
+
+Licensed under the [MIT](LICENSE.md) license.
