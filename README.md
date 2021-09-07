@@ -1,6 +1,6 @@
-# AREA44 source templates
+# Source templates
 
-`AREA44 source templates` allow you to quickly create a flyer for your design.
+Allows you to quickly create a flyer for your design.
 
 ## Feature
 
