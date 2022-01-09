@@ -1,4 +1,4 @@
-# Source templates
+# PowerTemplates
 
 Allows you to quickly create a flyer for your design.
 
