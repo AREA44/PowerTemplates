@@ -2,10 +2,13 @@
 
 Allows you to quickly create a flyer for your design.
 
-## Feature
+![image](https://user-images.githubusercontent.com/27698189/149194378-3c54f51a-18b8-43c4-81f0-59d44cc26a07.png)
 
-* Word Templates
-* PowerPoint Templates
+## List of templates support
+
+* Anki
+* PowerPoint
+* Word
 
 ## License
 
