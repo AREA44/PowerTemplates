@@ -1,8 +1,0 @@
-Fonts:
-
-abhyaksa : https://www.dafont.com/abhyaksa.font
-
-Poppins : https://www.fontsquirrel.com/fonts/poppins
-
-
-
