@@ -6,9 +6,9 @@ Allows you to quickly create a flyer for your design.
 
 ## List of templates support
 
-* Anki
-* PowerPoint
-* Word
+- Anki
+- PowerPoint
+- Word
 
 ## License
 
