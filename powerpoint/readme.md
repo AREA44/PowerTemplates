@@ -13,4 +13,5 @@ PowerPoint templates and Google Slides to boost your presentations.
 <a href="Kawaii-Lovely-Interface"><img src="Kawaii-Lovely-Interface/preview.webp" width="50%"></a>
 <a href="Livine-Meeting"><img src="Livine-Meeting/preview.webp" width="50%"></a>
 <a href="Music-Subject"><img src="Music-Subject/preview.webp" width="50%"></a>
+<a href="PANTONE"><img src="PANTONE/preview.webp" width="50%"></a>
 <a href="Pop"><img src="Pop/preview.png" width="50%"></a>
